@@ -1,4 +1,4 @@
-<h1 align="center">Uzair Usman</h1>
+<h1 align="center">M Uzair Usman</h1>
 <h3 align="center">Software Engineering Student | COMSATS University Islamabad (Sahiwal Campus)</h3>
 
 ---
