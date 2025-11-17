@@ -3,7 +3,7 @@
 
 ---
 
-## 📌 About Me
+## About Me
 - Undergraduate student exploring core areas of software engineering.  
 - Interested in programming fundamentals, algorithms, problem-solving, and database systems.  
 - Learning Python, C++, and modern development practices.  
@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 ### Programming
 <p>
@@ -34,7 +34,7 @@
 
 ---
 
-## 📊 GitHub Overview
+## GitHub Overview
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=uzairusman012&show_icons=true&theme=tokyonight&hide=issues" />
@@ -46,7 +46,7 @@
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 - Strengthening algorithmic thinking and programming foundations.  
 - Building structured projects using Python and C++.  
 - Expanding understanding of SQL and data management.  
@@ -54,7 +54,7 @@
 
 ---
 
-## 📬 Contact
+## Contact
 <p>
   <a href="mailto:muzairusman2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
