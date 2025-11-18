@@ -5,7 +5,7 @@
 
 ## About Me
 - Undergraduate student exploring core areas of software engineering.  
-- Interested in programming fundamentals, algorithms, problem-solving, and database systems.  
+- Learning programming fundamentals, algorithms, problem-solving, and database systems.  
 - Learning Python, C++, and modern development practices.  
 - Long-term aim: pursue advanced studies and research in Artificial Intelligence.  
 - Using Git, GitHub, and VS Code for daily development.
@@ -46,13 +46,6 @@
 
 ---
 
-## Current Focus
-- Strengthening algorithmic thinking and programming foundations.  
-- Building structured projects using Python and C++.  
-- Expanding understanding of SQL and data management.  
-- Preparing an academic and technical pathway toward Artificial Intelligence.
-
----
 
 ## Contact
 <p>
